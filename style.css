@@ -1,0 +1,21 @@
+* {
+    text-align: center;
+}
+
+.headerDiv {
+    margin-top: 50px;
+    font-size: 75px;
+}
+
+.scrambleDiv {
+    margin-top: 110px;
+    padding-top: 50px;
+}
+
+.displayDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    margin-top: 50px;
+}
